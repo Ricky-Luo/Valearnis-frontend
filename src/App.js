@@ -87,7 +87,7 @@ function App() {
   return (
     <div className="App">
       <Row>
-        <h1 style={{ marginLeft: "36px", marginTop:"30px" }}><span style={{borderBottom: "solid 5px #1677ff"}}>Ricky Luo</span>'s Assignment for Valearnis <img width="140px" height="36px" alt="Valearnis Logo" src="./valearnis-logo.svg" /></h1>
+        <h1 style={{ marginLeft: "36px", marginTop:"30px" }}><span style={{borderBottom: "solid 5px #1677ff"}}>Ricky Luo</span>'s Assignment for Valearnis</h1>
       </Row>
       <Row>
         <Col span={14}>
